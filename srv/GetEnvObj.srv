@@ -1,0 +1,4 @@
+---
+string[] object_names
+geometry_msgs/PoseArray object_poses
+geometry_msgs/Polygon[] bounding_boxes   # [0] - min, [1] - max

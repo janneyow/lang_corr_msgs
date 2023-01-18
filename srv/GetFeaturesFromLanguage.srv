@@ -1,0 +1,8 @@
+string language_correction
+bool regenerate_corpus
+string[] object_names
+---
+string feature
+float32 weight
+float32 confidence 
+bool success
