@@ -5,4 +5,5 @@ string[] object_names
 string feature
 float32 weight
 float32 confidence 
+string closest_sentence
 bool success
